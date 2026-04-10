@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72d103f73c46c407db068681e2811968
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - handChecker: {fileID: 2456580622760844862, guid: b9ed8148f97004d98b7a7a6dcb9f88e8, type: 3}
+  - cardInfo: {instanceID: 0}
+  - cardVisualPrefab: {instanceID: 0}
+  - cardVisual: {instanceID: 0}
+  - clickSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
